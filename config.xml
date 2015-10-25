@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>OPES Clima Alunos</name>
+    <name>OPES Clima Gestores</name>
     <description>
-        Pesquisa sobre clima escolar. Questionario para os alunos.
+        Pesquisa sobre clima escolar. Questionario para os gestores.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Kleso Informatica
